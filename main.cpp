@@ -10,7 +10,7 @@ int main()
 {
     int number = 0;
 
-    cout << "Enter number (Integer):\n";
+    cout << "Enter number (Integer): \n";
 
     cin >> number;
 
